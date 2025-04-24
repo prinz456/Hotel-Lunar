@@ -255,8 +255,12 @@ img{
         margin-top: 1rem;
         padding: 1rem;
         width: 100%;
-        background-color: #222;
+        background-color: white;
+        color: #222;
         flex-direction: column;
+    }
+    a{
+        color: #222;
     }
     .nav-child.active{
         display: flex;
